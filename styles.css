@@ -1538,19 +1538,19 @@ body.mobile-nav-open .mobile-nav-drawer {
 }
 
 .cat-obstacle-courses {
-    background-image: url('images/js3.jpg');
+    background-image: url('js3.jpg');
 }
 
 .cat-inflatable-games {
-    background-image: url('images/js4.jpg');
+    background-image: url('js4.jpg');
 }
 
 .cat-carnival-attractions {
-    background-image: url('images/js5.jpg');
+    background-image: url('js5.jpg');
 }
 
 .cat-bounce-houses {
-    background-image: url('images/js6.jpg');
+    background-image: url('js6.jpg');
 }
 
 /* Promo Banners */
@@ -2146,7 +2146,7 @@ body.mobile-nav-open .mobile-nav-drawer {
 
 /* Footer */
 .footer {
-    background: url('images/footer-image.jpg') no-repeat center center;
+    background: url('footer-image.jpg') no-repeat center center;
     background-size: cover;
     position: relative;
 }
