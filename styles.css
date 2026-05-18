@@ -87,7 +87,7 @@ a {
 .categories.section-padding {
     margin-top: -160px;
     padding-top: calc(160px + var(--spacing-lg) + 20px);
-    background-image: url('images/reviews-silhouettes-bg-2.png');
+    background-image: url('reviews-silhouettes-bg-2.png');
     background-color: #f4f6f9; /* Match trust showcase fallback */
     background-size: cover;
     background-position: center;
@@ -2731,7 +2731,7 @@ body.mobile-nav-open .mobile-nav-drawer {
 .content-features,
 .how-it-works {
     position: relative;
-    background-image: url('images/categories-light-bg.png');
+    background-image: url('categories-light-bg.png');
     background-size: cover;
     background-position: center;
     background-attachment: scroll;
@@ -2740,7 +2740,7 @@ body.mobile-nav-open .mobile-nav-drawer {
 
 .trust-showcase {
     position: relative;
-    background-image: url('images/reviews-silhouettes-bg.png');
+    background-image: url('reviews-silhouettes-bg.png');
     background-size: cover;
     background-position: center;
     background-attachment: scroll;
